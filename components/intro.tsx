@@ -32,7 +32,7 @@ export default function Intro() {
           >
             <Image
              src="https://media.licdn.com/dms/image/v2/D5603AQG0BWdI8Fjf9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720973014753?e=1740009600&v=beta&t=1kbAtKokPODW3DghHrHT2EQNjygY3tXxrWRq5_1BD9Q"
-              alt="Ricardo portrait"
+              alt="Sarthak portrait"
               width="192"
               height="192"
               quality="95"
