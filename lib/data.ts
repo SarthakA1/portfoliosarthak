@@ -99,4 +99,7 @@ export const skillsData = [
   "Featured in The Times of India",
   "Published in International Journal of Computer Science and Engineering",
   "Pathways Prodigy Award",
+  "PSG Work Ethic Award",
+  "PSG Ambassador Award",
+  "PSG Creativity Activity Service (CAS) Award",
 ] as const;
